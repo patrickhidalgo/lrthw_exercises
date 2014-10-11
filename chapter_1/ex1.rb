@@ -5,7 +5,7 @@ puts 'This is fun.'
 puts 'Yay! Printing.'
 puts "I much rather you 'not'."
 puts 'I "said" do not touch this.'
-puts
+puts ''
 
 # the last puts method in line 8 is my way of printing another line.
 # the only way to print just one line is to comment out all of the lines I

@@ -5,8 +5,7 @@ error is spelled correctly.
 
 1 .I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
 
->In this specific example it is not necessary because all of the calculations and answers
-happen to be integers.  The output does not change.
+> It is necessary because you can't put 3.75 people in a car.
 
 2. Remember that 4.0 is a floating point number. It's just a number with a decimal point, and you need 4.0 instead of just 4 so that it is floating point.
 
